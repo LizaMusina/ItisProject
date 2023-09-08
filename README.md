@@ -1,2 +1,2 @@
 # ItisProject
-Test ropository
+Test repository
